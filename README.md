@@ -19,15 +19,15 @@ Naturally, developing the optimal system for these grand goals is an iterative a
 
 ## A note for those anxious about the 3d printing element of this project
 
-If there is enough community support for the "Chamber_1" design (or future designs/iterations), 3d printing (and thus subsequent post printing epoxy sealing steps) could be avoided (or at least initially reduced) by investing in injection moulding moulds and providing some of the parts as a kit; for example the main body and lid. 
+If there is enough community support for the "Chamber_1" design or future designs/iterations, 3d printing (and thus subsequent post printing epoxy sealing steps) could be avoided or reduced by investing in injection moulding moulds and providing some of the parts as a kit; for example the main body and lid. 
 
-This approach has been employed successfully by other opensource projects such as the "snowcat" by rctestflight (https://www.kickstarter.com/projects/164488684/r-c-snowcat-tracks-rctestflight). Not only does this approach save lots of time that would otherwise be taken by printing, but also it reducing the cost of the individual parts (after the moulds have been funded of course). Therefore if this is something that you the community are interested in, please message me to start the conversation. 
+This approach has been employed successfully by other opensource projects such as the "snowcat" by rctestflight (https://www.kickstarter.com/projects/164488684/r-c-snowcat-tracks-rctestflight). Not only does this approach save lots of time that would otherwise be taken by printing, but also it reducing the cost of the individual parts (after the moulds have been funded of course) and ensuring the gas tight nature of the design. Therefore if this is something that you the community are interested in, please message me to start the conversation. 
 
-In the mean time, the cost of 3d printing has been taken into account in this project, by basing the build around the most economic FDM style printer available on the market at the time of publication (the anycubic chiron).
+In the mean time, the cost of 3d printing has been taken into account by basing the build of Chamber_1 around the most economic FDM style printer available on the market at the time of publication, the **anycubic chiron**.
 
-Additionally, the rise of consumer based 3d printers means that many universities and "Maker spaces" now have 3d printing facilities that students can utilise.
+Additionally, the rise of consumer based 3d printers means that many universities and Maker spaces now have 3d printing facilities that students can utilise.
 
-However if this is still not a possibility for you, low cost **3d printing services** are now offered by external companies such as JLCpcb. By simply providing the projects stl files, you can have your parts printed and delivered.
+However if this is still not a possibility or to your taste, low cost **3d printing services** are now offered by external companies such as JLCpcb. By simply providing the projects stl files, you can have your parts printed and delivered.
 
 
 
