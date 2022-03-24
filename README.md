@@ -1,4 +1,6 @@
-# openChamber - Building an open-source community around the development and application of automatically ventilating floating greenhouse gas flux chambers. 
+# openChamber 
+
+## Building an open-source community around the development and application of automatically ventilating floating greenhouse gas flux chambers. 
 
 
 My Name is Ben Archer and I am currently a doctoral candidate working at the freshwater research institute IGB-Berlin (a Leibniz funded institute in Berlin Germany). My associated university is the TU-berlin (Technical univerity Berlin).  
@@ -15,7 +17,7 @@ Naturally, developing the optimal system for these grand goals is an iterative a
 
 
 
-**A note for those anxious about the 3d printing element of the project**
+## A note for those anxious about the 3d printing element of the project
 
 If there is enough community support for the "Chamber_1" design (or future designs/iterations), 3d printing (and thus subsequent post printing epoxy sealing steps) could be avoided (or at least initially reduced) by investing in injection moulding moulds and providing some of the parts as a kit; for example the main body and lid. 
 
