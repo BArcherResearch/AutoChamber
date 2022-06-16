@@ -1,0 +1,15 @@
+“.gcode” filter=lfs diff=lfs merge=lfs -text
+“.gif” filter=lfs diff=lfs merge=lfs -text
+“.txt” filter=lfs diff=lfs merge=lfs -text
+“.stl” filter=lfs diff=lfs merge=lfs -text
+“.ino” filter=lfs diff=lfs merge=lfs -text
+“.pdf” filter=lfs diff=lfs merge=lfs -text
+“.gko” filter=lfs diff=lfs merge=lfs -text
+“.gbl” filter=lfs diff=lfs merge=lfs -text
+“.gbo” filter=lfs diff=lfs merge=lfs -text
+“.gbs” filter=lfs diff=lfs merge=lfs -text
+“.drl” filter=lfs diff=lfs merge=lfs -text
+“.gtl” filter=lfs diff=lfs merge=lfs -text
+“.gtp” filter=lfs diff=lfs merge=lfs -text
+“.gto” filter=lfs diff=lfs merge=lfs -text
+“.gts” filter=lfs diff=lfs merge=lfs -text
