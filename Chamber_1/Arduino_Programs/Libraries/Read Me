@@ -1,0 +1,10 @@
+Read Me:
+
+In this Library folder you will find all the versions of the libraries required to run the Chamber_1 scripts/ programmes.
+
+Download them from here into your arduino folder. 
+
+To upload them to your arduino ide, select the "Sketch" tab. In the drop down menue, select the "include library" sub tab. In the subsequent dropdown menu, select the "Add .ZIP Library..."
+subtab. From here, select the libraries that you have downloaded.
+
+The libraries should now be accessible when uploading your programme to the ATMEGA328p chip. 
