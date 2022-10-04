@@ -107,7 +107,7 @@
 
 //strain sensor 
 #include "HX711.h"
-#define calibration_factor  -720  //-1000 = load cell in chamber b1. chambera1 is -720
+#define calibration_factor  -1000  //-1000 = load cell in chamber b1. chambera1 is -720
 const int LOADCELL_DOUT_PIN = 4;
 const int LOADCELL_SCK_PIN = A2;
 //int strain_start;
@@ -461,6 +461,7 @@ void loop() {
   setRegisterPin(sd_power, HIGH);
     setRegisterPin(blue_LED, HIGH);
   setRegisterPin(white_LED, HIGH);
+    setRegisterPin(Main_mck_load, HIGH);
 
   writeRegisters(); 
   
@@ -502,14 +503,14 @@ myFile.println(" kg");
   setRegisterPin(white_LED, HIGH);
 
   writeRegisters();
-
+/*
   setRegisterPin(Main_mck_load, HIGH);
 writeRegisters(); 
 
 delay(1000);
 
 setRegisterPin(Main_mck_load, LOW);
-writeRegisters(); 
+writeRegisters(); */
 
 
   delay(30000);
@@ -545,20 +546,20 @@ myFile.println(" kg");
 
   writeRegisters();
 
-  delay(1000);
+  delay(100);
 
     setRegisterPin(blue_LED, HIGH);
   setRegisterPin(white_LED, HIGH);
 
   writeRegisters();
-
+/*
   setRegisterPin(Main_mck_load, HIGH);
 writeRegisters(); 
 
 delay(1000);
 
 setRegisterPin(Main_mck_load, LOW);
-writeRegisters(); 
+writeRegisters(); */
 
 
 

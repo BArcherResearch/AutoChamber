@@ -758,14 +758,16 @@ while  ( val<1400){
    servoPawl.write(val);
       delay(2); }
 
-delay(5000);
+delay(3000);
 
  val = servoPawl.read();
-while  ( val>1000){
+while  ( val>850){
   
    val = (( servoPawl.read())- 1);
    servoPawl.write(val);
       delay(2); }
+
+delay(3000);
 
 }
 
