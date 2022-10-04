@@ -7,7 +7,7 @@ The purpose of these files is to provide a "plug and play" option for those who 
 Simply copy the files onto a USB stick, and press print! No slicing required. 
 
 
-Full Buildplate files represent the fastest method of printing for mass chamber production. HOWEVER, please consider that when printing many parts
+"All parts together..." files represent the fastest method of printing for mass chamber production. HOWEVER, please consider that when printing many parts
 at the same time, you can also loose many parts at the same time if printing errors are experienced. 
 
 
