@@ -5,7 +5,7 @@ Follow "openChamber/Chamber_1/Build_Guide/Chamber.1 Build guide" to find the det
 ## Building an open-source community around the development and application of automatically ventilating floating greenhouse gas flux chambers. 
 
 
-My name is Ben Archer and I am currently a doctoral candidate working at the freshwater research institute IGB-Berlin (a Leibniz funded institute in Berlin Germany). 
+My name is Ben Archer and I am currently a doctoral candidate working with the freshwater research institute IGB-Berlin (a Leibniz funded institute in Berlin Germany). 
 
 My research focus is greenhouse gas dynamics from freshwater bodies. In particular, the development of opensource technical solutions for the collection of GHG flux data over higher temporal and spatial resolutions than has typically been achievable with floating chamber methods, or without extensive engineering experience. 
 
