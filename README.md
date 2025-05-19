@@ -1,6 +1,6 @@
-# openChamber 
+# AutoChamber 
 
-Follow "openChamber/Chamber_1/Build_Guide/Chamber.1 Build guide" to find the detailed chamber information document!
+Follow "AutoChamber/Chamber_1/Build_Guide/Chamber.1 Build guide" to find the detailed chamber information document!
 
 ## Building an open-source community around the development and application of automatically ventilating floating greenhouse gas flux chambers. 
 
