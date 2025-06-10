@@ -11,7 +11,7 @@ My research focus is greenhouse gas dynamics from freshwater bodies. In particul
 
 The goal of this project is to provide all the information required for people, even those with little to no experience in 3d printing or the arduino environment, to be able to build a standardised automatically ventilating floating chamber system, capable of collecting GHG flux data of a quality suitable for publication. 
 
-In doing so, the project aims to provide a way of improving the resolution of the global freshwater GHG budget that conforms with the philosophy and popularity of the floating chamber method, by being low cost, easily transportable/ deployable and requiring minimal construction skills.
+In doing so, the project aims to enhance the resolution of the global freshwater GHG budget by offering a solution that aligns with the philosophy and popularity of the floating chamber method—being low-cost, easily transportable and deployable, and requiring minimal construction skills.
 
 By using 3d printing and universally available parts, the system aims to be standardised between research groups, eliminating the time investment, engineering skills and unrepeatability that often come with lab builds.
 
